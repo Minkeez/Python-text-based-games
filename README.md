@@ -1,6 +1,11 @@
-# Text-based Games + Menu
+# Project 2: Text-based Games + Menu
+## Week 2 | Phase 1
+From YT: HourCode | 1M4P Series
+Description: Text-Based Mini Games by using python
 
-This project contains various mini text-based games in Python.
+---
+## setup
+
 
 ---
 
